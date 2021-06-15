@@ -1,0 +1,3 @@
+Auto bombs makes all vanilla bombs auto-swing - for all you people who, like me, enjoy explosions way too much.
+
+v0.2: Now marked as client-only
